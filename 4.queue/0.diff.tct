@@ -1,0 +1,23 @@
+Stack
+1- LIFO last in first out
+2- item added from top
+3- item removed from top
+4- call stack, undo
+
+
+Queue
+1- first infirst out
+2- item added from bottom
+3- item removed from front
+4- order - order, items, print
+
+dequeue front/back
+1.collections.dequeue
+list.popleft() - Time complexity O(1)
+
+list.pop(0)
+time complexity O(N)
+
+popular question
+K largest
+K smallest
